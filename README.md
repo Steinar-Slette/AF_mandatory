@@ -8,8 +8,8 @@ Mandatory project for Algorithm fairness.
 - logistic_regression
   - Task 2 Logistic regression model
   - Task 2 Counterfactual
-- random_forest
-  - 
+- random_forest (old)
+  - Was used for deving the Random Forest Classifier
 
 # Running the Notebooks
 Code was tested to run with Python 3.10.13.
