@@ -3,7 +3,7 @@ Mandatory project for Algorithm fairness.
 
 # Notebook Info
 - equalized_outcomes
-  - 
+  - Task 1 Fairness Intervention
   - Task 3 SHAP plots
 - logistic_regression
   - Task 2 Logistic regression model
