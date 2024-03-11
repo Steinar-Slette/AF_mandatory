@@ -6,7 +6,8 @@ Mandatory project for Algorithm fairness.
   - 
   - Task 3 SHAP plots
 - logistic_regression
-  - 
+  - Task 2 Logistic regression model
+  - Task 2 Counterfactual
 - random_forest
   - 
 
