@@ -2,12 +2,12 @@
 Mandatory project for Algorithm fairness.
 
 # Notebook Info
-- equalized_outcomes:
+- equalized_outcomes
   - 
   - Task 3 SHAP plots
-- logistic_regression:
+- logistic_regression
   - 
-- random_forest:
+- random_forest
   - 
 
 # Running the Notebooks
