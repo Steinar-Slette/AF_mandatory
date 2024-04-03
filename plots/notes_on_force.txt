@@ -1,0 +1,4 @@
+base value: average of all output values of the model on the training set
+output value: output of the model for the given row
+red features influence positively; they drag the prediction closer to 1.
+Blue does the opposite, they drag the prediction closer to 0.
