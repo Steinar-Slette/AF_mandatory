@@ -2,7 +2,7 @@
 Mandatory project for Algorithm fairness.
 
 # Notebook Info
-- Task_2_3.ipynb
+- Task_1_3.ipynb
   - Task 1 Fairness Intervention
   - Task 3 SHAP plots
 - Task_2.ipynb
