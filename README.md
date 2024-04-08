@@ -2,10 +2,10 @@
 Mandatory project for Algorithm fairness.
 
 # Notebook Info
-- equalized_outcomes
+- task_2_3.ipynb
   - Task 1 Fairness Intervention
   - Task 3 SHAP plots
-- logistic_regression
+- task_2.ipynb
   - Task 2 Logistic regression model
   - Task 2 Counterfactual
 - random_forest (old)
