@@ -2,13 +2,13 @@
 Mandatory project for Algorithm fairness.
 
 # Notebook Info
-- task_2_3.ipynb
+- Task_2_3.ipynb
   - Task 1 Fairness Intervention
   - Task 3 SHAP plots
-- task_2.ipynb
+- Task_2.ipynb
   - Task 2 Logistic regression model
   - Task 2 Counterfactual
-- random_forest (old)
+- random_forest (old) 
   - Was used for deving the Random Forest Classifier
 
 # Running the Notebooks
